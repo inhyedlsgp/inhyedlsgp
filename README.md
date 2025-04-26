@@ -45,9 +45,9 @@ __두꺼운__
 - 목록만들기
   - 들여쓰기
 
-[대괄호는 링크임 이거는 코드잇 링크!](https://www.codeit.kr/kdc/enrollments/S0RDRW5yb2xsbWVudDo2N2YzNmMyNzZmNGM1MzA3N2MxNzM2Njk%3D?sessionTypedId=&topicTypedId=VG9waWM6Njc2MWMwNmQwMjdjYzE3NjU3NjU5YmJk)
+[대괄호는 링크임 이거는 코드잇 링크!](코드잇링크)
 
-![이미지 이름도 설정 가능한가여](https://github.com/user-attachments/assets/f987d6c9-0999-49c9-9a60-57d67b61511b)
+![이미지 이름도 설정 가능한가여](이미지링크넣기)
 
 `백틱`으로 강조 가능하다네 'ㅇㅎ'
 
